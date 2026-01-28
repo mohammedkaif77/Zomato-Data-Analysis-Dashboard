@@ -8,6 +8,8 @@ This project is designed as a **portfolio-grade Data Analytics & Data Science ap
 
 ---
 
+## Demo : https://zomato-data-analysis-dashboard-2r4yczorn4oyys238asobz.streamlit.app/
+
 ## 🚀 Key Highlights
 
 - 🎉 Animated **Welcome Page** with session-based navigation  
